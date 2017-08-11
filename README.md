@@ -1,4 +1,6 @@
 # generator-jhipster-hook-test-demo
+!!! related to https://github.com/jhipster/generator-jhipster/issues/6218 for reproducing the error
+
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > JHipster module, This is a test to prove that the post-entity hook does not work
 
