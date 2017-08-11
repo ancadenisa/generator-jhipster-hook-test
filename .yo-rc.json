@@ -1,0 +1,10 @@
+{
+  "generator-jhipster-module": {
+    "promptValues": {
+      "githubName": "henkelb",
+      "authorName": "Anca Barbu",
+      "authorEmail": "anca.denisa.barbu@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
